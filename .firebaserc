@@ -1,1 +1,5 @@
-{}
+{
+  "projects": {
+    "marcou-site": "marcou-site"
+  }
+}
